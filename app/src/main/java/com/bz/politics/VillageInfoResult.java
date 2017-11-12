@@ -1,9 +1,6 @@
-package com.bz.poverty;
+package com.bz.politics;
 
 import com.framework.domain.response.BaseResult;
-
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Created by chenxi.cui on 2017/9/30.

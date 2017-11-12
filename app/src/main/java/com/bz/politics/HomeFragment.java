@@ -1,7 +1,6 @@
-package com.bz.poverty;
+package com.bz.politics;
 
 import android.media.MediaPlayer;
-import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.view.LayoutInflater;
@@ -12,7 +11,6 @@ import android.widget.MediaController;
 import android.widget.VideoView;
 
 import com.framework.activity.BaseFragment;
-import com.haolb.client.utils.SecureUtil;
 
 /**
  * Created by chenxi.cui on 2017/9/30.

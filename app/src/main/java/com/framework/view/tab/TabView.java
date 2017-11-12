@@ -9,12 +9,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.baidu.mapapi.map.Text;
-import com.bz.poverty.R;
-import com.framework.view.IFView;
-
-import butterknife.BindView;
-import butterknife.ButterKnife;
+import com.bz.politics.R;
 
 
 /**

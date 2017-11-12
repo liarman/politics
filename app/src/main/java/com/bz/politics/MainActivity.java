@@ -1,4 +1,4 @@
-package com.bz.poverty;
+package com.bz.politics;
 
 import android.content.ComponentName;
 import android.content.Intent;
@@ -6,7 +6,6 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 
 import com.framework.domain.param.BaseParam;
-import com.framework.domain.response.BaseResult;
 import com.framework.net.NetworkParam;
 import com.framework.net.Request;
 import com.framework.net.ServiceMap;

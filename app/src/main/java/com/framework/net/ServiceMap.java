@@ -1,11 +1,11 @@
 package com.framework.net;
 
 
-import com.bz.poverty.EquipResult;
-import com.bz.poverty.EquipmentsResult;
-import com.bz.poverty.PointResult;
-import com.bz.poverty.VillageInfoResult;
-import com.bz.poverty.WeatherResult;
+import com.bz.politics.EquipResult;
+import com.bz.politics.EquipmentsResult;
+import com.bz.politics.PointResult;
+import com.bz.politics.VillageInfoResult;
+import com.bz.politics.WeatherResult;
 import com.framework.domain.response.BaseResult;
 import com.framework.utils.Enums;
 

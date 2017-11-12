@@ -36,7 +36,7 @@ import android.widget.PopupWindow;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.bz.poverty.R;
+import com.bz.politics.R;
 import com.framework.net.NetworkListener;
 import com.framework.net.NetworkManager;
 import com.framework.net.NetworkParam;

@@ -1,16 +1,12 @@
-package com.bz.poverty;
+package com.bz.politics;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.view.LayoutInflater;
 import android.view.View;
-import android.view.ViewGroup;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
 import com.framework.activity.BaseActivity;
-import com.framework.activity.BaseFragment;
 
 /**
  * Created by chenxi.cui on 2017/9/30.

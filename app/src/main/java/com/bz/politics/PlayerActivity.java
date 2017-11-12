@@ -1,4 +1,4 @@
-package com.bz.poverty;
+package com.bz.politics;
 
 import android.os.Bundle;
 import android.view.MotionEvent;

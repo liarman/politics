@@ -16,7 +16,7 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 
 
-import com.bz.poverty.R;
+import com.bz.politics.R;
 
 import java.util.Observable;
 import java.util.Observer;

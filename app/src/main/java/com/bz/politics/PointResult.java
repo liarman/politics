@@ -1,6 +1,5 @@
-package com.bz.poverty;
+package com.bz.politics;
 
-import com.baidu.mapapi.model.LatLng;
 import com.framework.domain.response.BaseResult;
 
 import java.util.ArrayList;

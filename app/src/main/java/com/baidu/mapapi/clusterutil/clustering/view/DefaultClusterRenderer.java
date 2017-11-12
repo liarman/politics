@@ -40,7 +40,7 @@ import com.baidu.mapapi.map.MarkerOptions;
 import com.baidu.mapapi.map.Projection;
 import com.baidu.mapapi.model.LatLng;
 import com.baidu.mapapi.model.LatLngBounds;
-import com.bz.poverty.R;
+import com.bz.politics.R;
 
 import java.util.ArrayList;
 import java.util.Collections;

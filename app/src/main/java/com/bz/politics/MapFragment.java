@@ -1,15 +1,11 @@
-package com.bz.poverty;
+package com.bz.politics;
 
-import android.app.AlertDialog;
-import android.content.DialogInterface;
 import android.graphics.Paint;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
-import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
@@ -28,7 +24,7 @@ import com.baidu.mapapi.map.OverlayOptions;
 import com.baidu.mapapi.map.PolygonOptions;
 import com.baidu.mapapi.map.Stroke;
 import com.baidu.mapapi.model.LatLng;
-import com.bz.poverty.PointResult.PointItem;
+import com.bz.politics.PointResult.PointItem;
 import com.framework.activity.BaseFragment;
 import com.framework.domain.param.BaseParam;
 import com.framework.net.NetworkParam;
