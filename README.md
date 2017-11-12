@@ -1,0 +1,2 @@
+# politics
+politics and law
