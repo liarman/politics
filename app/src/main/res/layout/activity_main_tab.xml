@@ -13,7 +13,7 @@
         android:focusable="true"
         android:orientation="vertical">
 
-        <com.bz.poverty.WeatherLayout
+        <com.bz.politics.WeatherLayout
             android:id="@+id/weather_view"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
