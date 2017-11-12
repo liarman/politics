@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.bz.poverty">
+    package="com.bz.politics">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -40,7 +40,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name="com.bz.politics.MainActivity"
             android:screenOrientation="landscape"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
             <intent-filter>
@@ -50,10 +50,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".PlayerActivity"
+            android:name="com.bz.politics.PlayerActivity"
             android:screenOrientation="landscape" />
         <activity
-            android:name=".WebActivity"
+            android:name="com.bz.politics.WebActivity"
             android:screenOrientation="landscape" />
 
         <service
