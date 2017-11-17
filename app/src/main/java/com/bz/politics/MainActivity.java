@@ -30,10 +30,10 @@ public class MainActivity extends MainTabActivity {
         tlTab = (TabLayout) findViewById(R.id.tl_tab);
         weatherView = (WeatherLayout) findViewById(R.id.weather_view);
         tabLayout = tlTab;
-        addTab("制度建设", WebFragment.class, getBundle("制度建设","http://dj.qfant.com/index.php/App/Index/baseinfo/id/24"), R.drawable.icon_zhidu);
-        addTab("组织网格", WebFragment.class, getBundle("组织网格","http://dj.qfant.com/index.php/App/Index/news/catid/74"), R.drawable.icon_group);
-        addTab("工作开展", WebFragment.class, getBundle("工作开展","http://dj.qfant.com/index.php/App/Index/news/catid/73"), R.drawable.icon_gongzuo);
-        addTab("治安防范", WebFragment.class, getBundle("治安防范","http://dj.qfant.com/index.php/App/Index/grouplife/catid/72"), R.drawable.icon_zhian);
+        addTab("制度建设", WebFragment.class, getBundle("制度建设","http://dj.qfant.com/index.php/App/Index/news/catid/669"), R.drawable.icon_zhidu);
+        addTab("组织网格", WebFragment.class, getBundle("组织网格","http://dj.qfant.com/index.php/App/Index/news/catid/667"), R.drawable.icon_group);
+        addTab("工作开展", WebFragment.class, getBundle("工作开展","http://dj.qfant.com/index.php/App/Index/news/catid/668"), R.drawable.icon_gongzuo);
+        addTab("治安防范", WebFragment.class, getBundle("治安防范","http://dj.qfant.com/index.php/App/Index/news/catid/670"), R.drawable.icon_zhian);
         onPostCreate();
         initView();
 
